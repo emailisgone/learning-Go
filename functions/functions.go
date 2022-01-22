@@ -9,6 +9,8 @@ func sayHey(name string) {
 
 }
 
+//some edit idk
+
 func sayGoodbye(name string) {
 	fmt.Println("Goodbye", name)
 }
