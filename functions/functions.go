@@ -9,7 +9,7 @@ func sayHey(name string) {
 
 }
 
-//some edit idk
+//some edit idk    L + ratio
 
 func sayGoodbye(name string) {
 	fmt.Println("Goodbye", name)
